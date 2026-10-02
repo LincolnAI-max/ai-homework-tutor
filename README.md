@@ -1,2 +1,2 @@
-# ai-homework-tutor
+#sample-ai-homework
 An AI-powered homework tutor that helps students understand Mathematics, Physics, English, Chemistry, and other subjects through clear, step-by-step explanations.
